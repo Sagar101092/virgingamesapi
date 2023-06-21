@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Currency is EUR","Get All data for Quarry Parameter Currency =  EUR","SUCCESS","2023-06-18T18:53:49.035+01:00[Europe/London]","0.0","3.52"
+"Currency is GBP","Get All data for Quarry Parameter Currency =  GBP","SUCCESS","2023-06-18T18:53:53.212+01:00[Europe/London]","0.0","0.18"
+"Currency is SEK","Get All data for Quarry Parameter Currency =  SEK","SUCCESS","2023-06-18T18:53:53.421+01:00[Europe/London]","0.0","0.31"

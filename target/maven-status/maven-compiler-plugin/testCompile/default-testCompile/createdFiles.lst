@@ -1,0 +1,4 @@
+com\virgingamesapi\testbase\TestBase.class
+com\virgingamesapi\teststeps\CurrencyIsGBP.class
+com\virgingamesapi\teststeps\CurrencyIsEUR.class
+com\virgingamesapi\teststeps\CurrencyIsSEK.class
